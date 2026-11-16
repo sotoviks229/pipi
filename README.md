@@ -1,1 +1,2 @@
 # pipi
+print = ("Hello word")
